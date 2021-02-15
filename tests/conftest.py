@@ -56,7 +56,7 @@ def create_driver(prep_properties, request):
                 "enableVideo": False
             }
         }
-        driver = webdriver.Remote(command_executor="http://localhost:4444/wd/hub", desired_capabilities=capabilities)
+        driver = webdriver.Remote(command_executor="http://127.0.0.1:4444/wd/hub", desired_capabilities=capabilities)
     elif browser == "chrome_headless":
         opts = webdriver.ChromeOptions()
         opts.add_argument("--headless")
