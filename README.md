@@ -1,5 +1,5 @@
 # Python-Selenium-Pytest
-## Setup Your Working Enviorment
+## Setup Your Working Enviorment with terminal or CLI
 
 For Windows:
 * Install scoop from www.scoop.sh
@@ -36,6 +36,11 @@ pip install pipenv
 ```
 pipenv install
 ```
+## Setup work environment using IDE PyCharm
+* download code as zip file from [Git](https://github.com/cvenkatreddy/Python-Selenium-Pytest/)
+* Extract and open with Pycharm
+* venv and dependencies will automatically setup and installed with notified pop-ups
+* pip install allure, if get allure not found
 
 ## Run Tests
 
