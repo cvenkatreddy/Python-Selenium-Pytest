@@ -1,0 +1,11 @@
+[ {
+  "uid" : "8b7a74e00d7f9b4c",
+  "name" : "Sign Test",
+  "time" : {
+    "start" : 1613423275559,
+    "stop" : 1613423275559,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+} ]
