@@ -6,13 +6,13 @@
       "name" : "Sign Feature Functionality",
       "children" : [ {
         "name" : "Sign Test",
-        "uid" : "c997abdcb4929801",
+        "uid" : "a11d78f626dc511b",
         "parentUid" : "35a3e54b944eab89b79ad9540d4a5237",
         "status" : "passed",
         "time" : {
-          "start" : 1613427915721,
-          "stop" : 1613427922558,
-          "duration" : 6837
+          "start" : 1613429114940,
+          "stop" : 1613429118665,
+          "duration" : 3725
         },
         "flaky" : false,
         "newFailed" : false,

@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://cvenkatreddy.github.io/Python-Selenium-Pytest",
+  "buildOrder" : 4,
+  "buildName" : "GitHub Actions Run #569899681",
+  "buildUrl" : "https://github.com/cvenkatreddy/Python-Selenium-Pytest/actions/runs/569899681",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://cvenkatreddy.github.io/Python-Selenium-Pytest/4/"
+} ]

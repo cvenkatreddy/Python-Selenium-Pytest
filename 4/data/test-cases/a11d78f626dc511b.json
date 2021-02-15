@@ -1,12 +1,12 @@
 {
-  "uid" : "c997abdcb4929801",
+  "uid" : "a11d78f626dc511b",
   "name" : "Sign Test",
   "fullName" : "tests.test_sign.TestSign#test_valid_sign",
   "historyId" : "809d2343bcbf573ce4aa91fdde92f3b0",
   "time" : {
-    "start" : 1613427915721,
-    "stop" : 1613427922558,
-    "duration" : 6837
+    "start" : 1613429114940,
+    "stop" : 1613429118665,
+    "duration" : 3725
   },
   "description" : "sign test",
   "descriptionHtml" : "<p>sign test</p>\n",
@@ -14,11 +14,11 @@
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ {
-    "name" : "pages",
+    "name" : "prep_properties",
     "time" : {
-      "start" : 1613427915705,
-      "stop" : 1613427915705,
-      "duration" : 0
+      "start" : 1613429108266,
+      "stop" : 1613429108267,
+      "duration" : 1
     },
     "status" : "passed",
     "steps" : [ ],
@@ -31,9 +31,24 @@
   }, {
     "name" : "create_driver",
     "time" : {
-      "start" : 1613427908197,
-      "stop" : 1613427915705,
-      "duration" : 7508
+      "start" : 1613429108267,
+      "stop" : 1613429114923,
+      "duration" : 6656
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "pages",
+    "time" : {
+      "start" : 1613429114923,
+      "stop" : 1613429114923,
+      "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
@@ -46,23 +61,8 @@
   }, {
     "name" : "injector",
     "time" : {
-      "start" : 1613427915705,
-      "stop" : 1613427915705,
-      "duration" : 0
-    },
-    "status" : "passed",
-    "steps" : [ ],
-    "attachments" : [ ],
-    "parameters" : [ ],
-    "stepsCount" : 0,
-    "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false,
-    "hasContent" : false
-  }, {
-    "name" : "prep_properties",
-    "time" : {
-      "start" : 1613427908197,
-      "stop" : 1613427908197,
+      "start" : 1613429114923,
+      "stop" : 1613429114923,
       "duration" : 0
     },
     "status" : "passed",
@@ -76,8 +76,8 @@
   }, {
     "name" : "write_allure_enviorment",
     "time" : {
-      "start" : 1613427915705,
-      "stop" : 1613427915705,
+      "start" : 1613429114923,
+      "stop" : 1613429114923,
       "duration" : 0
     },
     "status" : "passed",
@@ -95,9 +95,9 @@
     "steps" : [ {
       "name" : "Enter Full name",
       "time" : {
-        "start" : 1613427915722,
-        "stop" : 1613427916245,
-        "duration" : 523
+        "start" : 1613429114940,
+        "stop" : 1613429115491,
+        "duration" : 551
       },
       "status" : "passed",
       "steps" : [ ],
@@ -113,9 +113,9 @@
     }, {
       "name" : "Click Next",
       "time" : {
-        "start" : 1613427916245,
-        "stop" : 1613427916651,
-        "duration" : 406
+        "start" : 1613429115491,
+        "stop" : 1613429115870,
+        "duration" : 379
       },
       "status" : "passed",
       "steps" : [ ],
@@ -128,9 +128,9 @@
     }, {
       "name" : "Capture Confirmation Model",
       "time" : {
-        "start" : 1613427916651,
-        "stop" : 1613427916692,
-        "duration" : 41
+        "start" : 1613429115870,
+        "stop" : 1613429115908,
+        "duration" : 38
       },
       "status" : "passed",
       "steps" : [ ],
@@ -143,9 +143,9 @@
     }, {
       "name" : "Click Save",
       "time" : {
-        "start" : 1613427916692,
-        "stop" : 1613427916958,
-        "duration" : 266
+        "start" : 1613429115908,
+        "stop" : 1613429116177,
+        "duration" : 269
       },
       "status" : "passed",
       "steps" : [ ],
@@ -158,9 +158,9 @@
     }, {
       "name" : "Get success message",
       "time" : {
-        "start" : 1613427916959,
-        "stop" : 1613427922558,
-        "duration" : 5599
+        "start" : 1613429116177,
+        "stop" : 1613429118664,
+        "duration" : 2487
       },
       "status" : "passed",
       "steps" : [ ],
@@ -181,9 +181,9 @@
   "afterStages" : [ {
     "name" : "create_driver::0",
     "time" : {
-      "start" : 1613427922560,
-      "stop" : 1613427923091,
-      "duration" : 531
+      "start" : 1613429118666,
+      "stop" : 1613429119269,
+      "duration" : 603
     },
     "status" : "passed",
     "steps" : [ ],
@@ -196,8 +196,8 @@
   }, {
     "name" : "write_allure_enviorment::0",
     "time" : {
-      "start" : 1613427922559,
-      "stop" : 1613427922559,
+      "start" : 1613429118666,
+      "stop" : 1613429118666,
       "duration" : 0
     },
     "status" : "passed",
@@ -210,14 +210,14 @@
     "hasContent" : false
   } ],
   "labels" : [ {
+    "name" : "epic",
+    "value" : "Sign"
+  }, {
     "name" : "story",
     "value" : "Sign Feature Functionality"
   }, {
     "name" : "severity",
     "value" : "blocker"
-  }, {
-    "name" : "epic",
-    "value" : "Sign"
   }, {
     "name" : "tag",
     "value" : "run"
@@ -232,10 +232,10 @@
     "value" : "TestSign"
   }, {
     "name" : "host",
-    "value" : "fv-az40-501"
+    "value" : "fv-az71-207"
   }, {
     "name" : "thread",
-    "value" : "4876-MainThread"
+    "value" : "4901-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -259,6 +259,6 @@
     "categories" : [ ],
     "tags" : [ "run" ]
   },
-  "source" : "c997abdcb4929801.json",
+  "source" : "a11d78f626dc511b.json",
   "parameterValues" : [ ]
 }
