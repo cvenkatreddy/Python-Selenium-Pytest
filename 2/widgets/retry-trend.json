@@ -1,9 +1,0 @@
-[ {
-  "buildOrder" : 2,
-  "reportUrl" : "https://cvenkatreddy.github.io/Python-Selenium-Pytest/2/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "run" : 1,
-    "retry" : 0
-  }
-} ]
