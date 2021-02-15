@@ -49,12 +49,8 @@ def create_driver(prep_properties, request):
         driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
     elif browser == "remote":
         capabilities = {
-            "browserName": "chrome",
-            "browserVersion": "86.0",
-            "selenoid:options": {
-                "enableVNC": True,
-                "enableVideo": False
-            }
+           'browserName': 'firefox',
+			'javascriptEnabled': True
         }
         driver = webdriver.Remote(command_executor="http://127.0.0.1:4444/wd/hub", desired_capabilities=capabilities)
     elif browser == "chrome_headless":
