@@ -55,8 +55,3 @@ pipenv run pytest -k "<tag_name>" --browser <firefox/chrome/remote/chrome_headle
 ```
 allure serve allure-results
 ```
-## View Help And Custom CLI Options
-
-```
-pytest --help
-```
