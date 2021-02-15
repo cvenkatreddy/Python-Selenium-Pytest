@@ -1,6 +1,6 @@
 [ {
-  "buildOrder" : 1,
-  "reportUrl" : "https://cvenkatreddy.github.io/Python-Selenium-Pytest/1/",
+  "buildOrder" : 2,
+  "reportUrl" : "https://cvenkatreddy.github.io/Python-Selenium-Pytest/2/",
   "reportName" : "Allure Report with history",
   "data" : {
     "failed" : 0,

@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8b7a74e00d7f9b4c",
-      "reportUrl" : "https://cvenkatreddy.github.io/Python-Selenium-Pytest/1//#testresult/8b7a74e00d7f9b4c",
+      "uid" : "67e16823162130ab",
+      "reportUrl" : "https://cvenkatreddy.github.io/Python-Selenium-Pytest/2//#testresult/67e16823162130ab",
       "status" : "broken",
       "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: Requested environment is not available",
       "time" : {
-        "start" : 1613423275559,
-        "stop" : 1613423275559,
+        "start" : 1613424487619,
+        "stop" : 1613424487619,
         "duration" : 0
       }
     } ]
