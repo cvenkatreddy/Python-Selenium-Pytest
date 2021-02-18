@@ -60,5 +60,3 @@ pipenv run pytest -k "<tag_name>" --browser <firefox/chrome/remote/chrome_headle
 ```
 allure serve allure-results
 ```
-
-The Allure-Report looks as ![Alt text](https://github.com/cvenkatreddy/Python-Selenium-Pytest/blob/main/Allure-Report_Screenshot.png)
