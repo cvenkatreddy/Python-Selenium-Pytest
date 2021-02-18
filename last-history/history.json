@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "4b20bb1c69bb6c9c",
-      "reportUrl" : "https://cvenkatreddy.github.io/Python-Selenium-Pytest/6//#testresult/4b20bb1c69bb6c9c",
+      "uid" : "58caf0a71b4e1885",
+      "reportUrl" : "https://cvenkatreddy.github.io/Python-Selenium-Pytest/7//#testresult/58caf0a71b4e1885",
       "status" : "passed",
       "time" : {
-        "start" : 1613431441009,
-        "stop" : 1613431444995,
-        "duration" : 3986
+        "start" : 1613644568305,
+        "stop" : 1613644572007,
+        "duration" : 3702
       }
     } ]
   }
