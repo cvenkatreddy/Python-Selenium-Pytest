@@ -1,2 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Sep 15 16:12:00 GMT 2023","Fri Sep 15 16:12:04 GMT 2023","4480","tests","test_sign","TestSign","","","Sign Test","sign test"
