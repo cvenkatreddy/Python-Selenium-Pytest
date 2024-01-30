@@ -1,1 +1,0 @@
-{"809d2343bcbf573ce4aa91fdde92f3b0":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"db18d2ff2ec69769","reportUrl":"https://cvenkatreddy.github.io/Python-Selenium-Pytest/18//#testresult/db18d2ff2ec69769","status":"passed","time":{"start":1694794381086,"stop":1694794384417,"duration":3331}}]}}
