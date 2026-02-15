@@ -10,7 +10,7 @@ colorama==0.4.4
 configparser==5.0.1
 crayons==0.4.0
 distlib==0.3.1
-filelock==3.20.1
+filelock>=3.20.3
 idna==3.7
 iniconfig==1.1.1
 packaging==20.4
